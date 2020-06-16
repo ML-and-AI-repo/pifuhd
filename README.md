@@ -88,7 +88,7 @@ python -m apps.render_turntable -f {path_of_objs} -ww {rendering_width} -hh {ren
 
 We answer to the question of "how can we learn implicit function if we don't have 3D ground truth?"
 
-**[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization (ICCV 2020)](https://shunsukesaito.github.io/PIFu/)**  
+**[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization (ICCV 2019)](https://shunsukesaito.github.io/PIFu/)**  
 *Shunsuke Saito\*, Zeng Huang\*, Ryota Natsume\*, Shigeo Morishima, Angjoo Kanazawa, Hao Li*
 
 The original work of Pixel-Aligned Implicit Function for geometry and texture reconstruction, unifying sigle-view and multi-view methods.
